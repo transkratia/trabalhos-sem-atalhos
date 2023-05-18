@@ -9,4 +9,4 @@ while ciclo < 20:
     numTotal += numVariável
     ciclo += 1
 
-print(f"A soma é igual a {numTotal/20}.")
+print(f"A média é igual a {numTotal/20}.")
