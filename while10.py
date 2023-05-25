@@ -17,4 +17,4 @@ else:
         ultimo = termo
         count += 1
     print(termo)
-
+    
